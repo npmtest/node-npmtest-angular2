@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-angular2/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-angular2/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular2/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular2/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-angular2/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-angular2/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-angular2/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-angular2/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-angular2%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-angular2/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-angular2/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular2%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-angular2/build/test-report.html](https://npmtest.github.io/node-npmtest-angular2/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-angular2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-angular2/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-angular2/build/screenCapture.npmPackageListing.svg)
 
@@ -85,7 +91,6 @@
         "rxjs": "5.0.0-beta.6",
         "zone.js": "^0.6.12"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.git"
