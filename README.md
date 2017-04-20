@@ -1,4 +1,7 @@
-# test coverage for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmtest-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2)
+# npmtest-angular2
+
+#### basic test coverage for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmtest-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2)
+
 #### Angular 2 - a web framework for modern web apps
 
 [![NPM](https://nodei.co/npm/angular2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2)
